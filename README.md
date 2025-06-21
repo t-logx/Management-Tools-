@@ -9,7 +9,7 @@ After reading the file, the program prompts the user to enter how many names the
 First, prepare a text file --> Create a ".txt" file containing names separated by semicolons. 
 
 For example: 
-Ali; Sami; Taieb; Rico; Sana; Leo; Julia; Taha
+Ali; Sami; Taieb; Rico; Sana; Leo; Julia; Taha; Jalila; Amarjeet; Joe
 
 Second, run the script --> Execute the Python script using a terminal or an IDE
 
