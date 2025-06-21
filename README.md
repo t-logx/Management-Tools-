@@ -9,5 +9,7 @@ First, prepare a text file --> Create a ".txt" file containing names separated b
 For example: 
 Ali; Sami; Taieb; Rico; Sana; Leo; Julia; Taha
 Second, run the script --> Execute the Python script using a terminal or an IDE
+
 Third, when prompted, enter the full path to your text file containing the names. The program will then ask you how many names you would like to randomly select. Enter the number in integers like "4" and not "four" 
+
 Fourth, enjoy the output!! The randomly selected names will be displayed on the screen. 
